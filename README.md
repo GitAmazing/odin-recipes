@@ -1,5 +1,5 @@
 # odin-recipes
 
 This is placeholder for when I will fill this in.
-I will list the brief introduction on the current
+I will list a brief introduction on the current
 project and what skill it demonstrates
